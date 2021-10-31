@@ -1,0 +1,16 @@
+C:\Users\Галина\Desktop\Учеба\Разработчик\Lesson02\Perimetr\obj\Debug\net6.0\Perimetr.GlobalUsings.g.cs
+C:\Users\Галина\Desktop\Учеба\Разработчик\Lesson02\Perimetr\obj\Debug\net6.0\Perimetr.csproj.AssemblyReference.cache
+C:\Users\Галина\Desktop\Учеба\Разработчик\Lesson02\Perimetr\obj\Debug\net6.0\Perimetr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Галина\Desktop\Учеба\Разработчик\Lesson02\Perimetr\obj\Debug\net6.0\Perimetr.AssemblyInfoInputs.cache
+C:\Users\Галина\Desktop\Учеба\Разработчик\Lesson02\Perimetr\obj\Debug\net6.0\Perimetr.AssemblyInfo.cs
+C:\Users\Галина\Desktop\Учеба\Разработчик\Lesson02\Perimetr\obj\Debug\net6.0\Perimetr.csproj.CoreCompileInputs.cache
+C:\Users\Галина\Desktop\Учеба\Разработчик\Lesson02\Perimetr\bin\Debug\net6.0\Perimetr.exe
+C:\Users\Галина\Desktop\Учеба\Разработчик\Lesson02\Perimetr\bin\Debug\net6.0\Perimetr.deps.json
+C:\Users\Галина\Desktop\Учеба\Разработчик\Lesson02\Perimetr\bin\Debug\net6.0\Perimetr.runtimeconfig.json
+C:\Users\Галина\Desktop\Учеба\Разработчик\Lesson02\Perimetr\bin\Debug\net6.0\Perimetr.dll
+C:\Users\Галина\Desktop\Учеба\Разработчик\Lesson02\Perimetr\bin\Debug\net6.0\ref\Perimetr.dll
+C:\Users\Галина\Desktop\Учеба\Разработчик\Lesson02\Perimetr\bin\Debug\net6.0\Perimetr.pdb
+C:\Users\Галина\Desktop\Учеба\Разработчик\Lesson02\Perimetr\obj\Debug\net6.0\Perimetr.dll
+C:\Users\Галина\Desktop\Учеба\Разработчик\Lesson02\Perimetr\obj\Debug\net6.0\ref\Perimetr.dll
+C:\Users\Галина\Desktop\Учеба\Разработчик\Lesson02\Perimetr\obj\Debug\net6.0\Perimetr.pdb
+C:\Users\Галина\Desktop\Учеба\Разработчик\Lesson02\Perimetr\obj\Debug\net6.0\Perimetr.genruntimeconfig.cache

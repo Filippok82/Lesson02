@@ -1,0 +1,16 @@
+C:\Users\Галина\Desktop\Учеба\Разработчик\Lesson02\Array_random\bin\Debug\net6.0\Array_random.exe
+C:\Users\Галина\Desktop\Учеба\Разработчик\Lesson02\Array_random\bin\Debug\net6.0\Array_random.deps.json
+C:\Users\Галина\Desktop\Учеба\Разработчик\Lesson02\Array_random\bin\Debug\net6.0\Array_random.runtimeconfig.json
+C:\Users\Галина\Desktop\Учеба\Разработчик\Lesson02\Array_random\bin\Debug\net6.0\Array_random.dll
+C:\Users\Галина\Desktop\Учеба\Разработчик\Lesson02\Array_random\bin\Debug\net6.0\ref\Array_random.dll
+C:\Users\Галина\Desktop\Учеба\Разработчик\Lesson02\Array_random\bin\Debug\net6.0\Array_random.pdb
+C:\Users\Галина\Desktop\Учеба\Разработчик\Lesson02\Array_random\obj\Debug\net6.0\Array_random.GlobalUsings.g.cs
+C:\Users\Галина\Desktop\Учеба\Разработчик\Lesson02\Array_random\obj\Debug\net6.0\Array_random.csproj.AssemblyReference.cache
+C:\Users\Галина\Desktop\Учеба\Разработчик\Lesson02\Array_random\obj\Debug\net6.0\Array_random.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Галина\Desktop\Учеба\Разработчик\Lesson02\Array_random\obj\Debug\net6.0\Array_random.AssemblyInfoInputs.cache
+C:\Users\Галина\Desktop\Учеба\Разработчик\Lesson02\Array_random\obj\Debug\net6.0\Array_random.AssemblyInfo.cs
+C:\Users\Галина\Desktop\Учеба\Разработчик\Lesson02\Array_random\obj\Debug\net6.0\Array_random.csproj.CoreCompileInputs.cache
+C:\Users\Галина\Desktop\Учеба\Разработчик\Lesson02\Array_random\obj\Debug\net6.0\Array_random.dll
+C:\Users\Галина\Desktop\Учеба\Разработчик\Lesson02\Array_random\obj\Debug\net6.0\ref\Array_random.dll
+C:\Users\Галина\Desktop\Учеба\Разработчик\Lesson02\Array_random\obj\Debug\net6.0\Array_random.pdb
+C:\Users\Галина\Desktop\Учеба\Разработчик\Lesson02\Array_random\obj\Debug\net6.0\Array_random.genruntimeconfig.cache
